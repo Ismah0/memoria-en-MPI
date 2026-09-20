@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1789686391 source:c:\users\iroma\onedrive\documentos\paralelo\actividad2_1\generadorarreglo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mpi.h>
+	<omp.h>
+	<string>
+
